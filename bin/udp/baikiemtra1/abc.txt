@@ -1,0 +1,3 @@
+30
+day 	la  bai tap thu 3	 lop lap trinh 	mang chieu 		thu 	6
+2 1 6 7 3 2 5 8 1

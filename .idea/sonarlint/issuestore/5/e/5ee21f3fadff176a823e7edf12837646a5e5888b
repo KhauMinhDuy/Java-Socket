@@ -1,0 +1,8 @@
+
+N
+java:S1481"2Remove this unused "executeUpdate" local variable.(ƒÓ™E8¡­™ÙŞ.
+s
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(ä¢Âáûÿÿÿÿ8ÅÆšÙŞ.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Àùß8‰ò“ÌŞ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛØæ

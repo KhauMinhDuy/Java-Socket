@@ -1,0 +1,5 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛØæ
+[
+java:S2168"9Remove this dangerous instance of double-checked locking.(ÙÔãÙşÿÿÿÿ8ÌÚŠÌŞ.
+]	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8»’’ÌŞ.

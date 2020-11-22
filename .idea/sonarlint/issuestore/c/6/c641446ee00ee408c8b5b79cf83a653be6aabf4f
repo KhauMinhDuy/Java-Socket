@@ -1,0 +1,4 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛØæ
+p	java:S116"ORename this field "MaSV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“è«–ıÿÿÿÿ8ã¬ËŞ.
+l	java:S116"PRename this field "IdLop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şåÇæ8¢¨®ËŞ.

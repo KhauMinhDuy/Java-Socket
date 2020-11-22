@@ -1,0 +1,8 @@
+- Client/Server TCP
+- Nguoi dung nhap lenh tren console
+	+ SET_SERVER_DIR directory
+	+ SET_CLIENT_DIR directory
+	+ SEND sourceFile destFile
+	+ GET sourceFile destFile
+	+ QUIT
+	
